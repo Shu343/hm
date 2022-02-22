@@ -1,1 +1,1 @@
-worker: nanoha-bot
+npm: start
