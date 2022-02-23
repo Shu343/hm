@@ -33,7 +33,7 @@
         <slf4j.version>1.7.25</slf4j.version>
         <jersey.version>2.27</jersey.version>
         <apache.commons.lang.version>3.0</apache.commons.lang.version>
-        <apache.commons.io.version>2.5</apache.commons.io.version>
+        <apache.commons.io.version>2.7</apache.commons.io.version>
         <telegrambots.spring.version>3.6.1</telegrambots.spring.version>
         <mal.api.version>1.0.1</mal.api.version>
         <jikan.version>0.9.G</jikan.version>
