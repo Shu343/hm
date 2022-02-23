@@ -1,1 +1,1 @@
-worker: java -jar telegram-bots.jar
+worker: java -jar nanoha-bot
